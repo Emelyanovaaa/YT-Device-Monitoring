@@ -1,0 +1,19 @@
+### Python template
+# Byte-complited / optimized / DLL files
+__pycache__/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/products.json### Python template
+# Byte-complited / optimized / DLL files
+__pycache__/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/products.json### Python template
+# Byte-complited / optimized / DLL files
+__pycache__/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/products.json
